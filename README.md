@@ -3,7 +3,7 @@ RFID-based access control and attendance system using Arduino UNO, RC522, Relay 
 ## 📷 Project Setup
 
 ### 🔧 Complete Setup
-![Project Setup](Images/setup.jpg)
+![Project Setup](Images/setup.png)
 
 ### 📊 Circuit Diagram
 ![Circuit Diagram](Images/diagram.png)
